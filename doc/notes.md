@@ -28,5 +28,7 @@ Course name
 ### 6.20.23
 * The List courses for a user call looks very promising
 * Nikole's a-number: a00344330
+  * Canvas ID: 54650
+* Got the data I think I need, now I just need to parse it
 
 
